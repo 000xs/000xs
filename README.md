@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sithum Sathsara</h1>
-<h3 align="center">I m web full stack developer.</h3>
+<h3 align="center">Gaming and Developing ❤️  My Personal Portfolio: https://sithum.ml/ I like to Play Games and Developing . Age: 15 years ⛰️⛰️⛰️⛰️⛰️🏕⛰️⛰️⛰️⛰️⛰️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithumsathsaras&label=Profile%20views&color=0e75b6&style=flat" alt="sithumsathsaras" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sithumsathsaras" target="blank"><img src="https://img.shields.io/twitter/follow/sithumsathsaras?logo=twitter&style=for-the-badge" alt="sithumsathsaras" /></a> </p>
+
+- 🌱 I’m currently learning **PyQt5 , Vue , Css**
+
+- 👨‍💻 All of my projects are available at [sithum.ml](sithum.ml)
+
+- 📫 How to reach me **contact@sithum.ml**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
