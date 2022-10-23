@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sithum Sathsara</h1>
-<h3 align="center">Gaming and Developing ❤️  My Personal Portfolio: https://sithum.ml/ I like to Play Games and Developing . Age: 15 years ⛰️⛰️⛰️⛰️⛰️🏕⛰️⛰️⛰️⛰️⛰️</h3>
+<h3 align="center">@SithumSathsaras Hi, I am Sithum He/Him | Sri Lankan 🇱🇰 | Programmer| Graphic designer | NFT| Gamer |Contact me at: contact@sithum.ml Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sithumsathsaras&label=Profile%20views&color=0e75b6&style=flat" alt="sithumsathsaras" /> </p>
 
