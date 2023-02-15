@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **PyQt5 , Vue , Css**
 
-- 👨‍💻 All of my projects are available at [sithum.ml](sithum.ml)
+- 👨‍💻 All of my projects are available at [sithum.tk](sithum.tk)
 
-- 📫 How to reach me **contact@sithum.ml**
+- 📫 How to reach me **contact@sithum.tk**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
