@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning PyQt5 , Vue , Css<br><br>👨‍💻 All of my projects are available at 000xs.xyz<br><br>📫 How to reach me hey@000xs.xyz
+🌱 I’m currently learning GO/Go lang<br><br>👨‍💻 All of my projects are available at 000xs.xyz<br><br>📫 How to reach me hey@000xs.xyz
 
 
 ## 🌐 Socials:
